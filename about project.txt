@@ -3,4 +3,5 @@
 добавить поиск по покемонам
 скинуть ссылку на репу на почту
 
+список покемонов https://pokeapi.co/
 my repo https://github.com/loradeveloper/poke.git
